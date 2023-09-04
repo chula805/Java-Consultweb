@@ -1001,7 +1001,7 @@ textarea {
   width: 100%; }
 
 aside.left-panel {
-  background: #272c33;
+  background: #003A6E;
   display: table-cell;
   height: 100vh;
   min-height: 100%;
@@ -1012,7 +1012,7 @@ aside.left-panel {
   transition: width 0.3s ease; }
 
 .navbar {
-  background: #272c33;
+  background: #003A6E;
   border-radius: 0;
   border: none;
   display: block;
@@ -1312,7 +1312,7 @@ header.fixed-top {
   position: inherit; }
 
 .menutoggle {
-  background: #e74c3c;
+  background: #050A30;
   border-radius: 50%;
   color: #fff !important;
   cursor: pointer;
