@@ -64,7 +64,10 @@
 
             if (username === "admin@gmail.com" && password === "admin") {
                 window.location.href = "dashboard.html";
-            } else {
+            } else if (username === "" && password === ""){
+                alert("Email Address is Required” and “Password is Required");
+            }
+            else {
                 alert("Invalid username or password.");
             }
         }
